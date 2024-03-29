@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arnavsharma2711@gamil.com**
 
-- 📄 Know about my experiences [Resume Link](https://github.com/arnavsharma2711/arnavsharma2711/blob/bacb330a2be301adb698047268596e2543d7cba5/Arnav's%20Resume%20-%20Last%20Updated%20Dec%202023.pdf)
+- 📄 Know about my experiences [Resume Link](https://github.com/arnavsharma2711/arnavsharma2711/blob/main/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

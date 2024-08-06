@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working with **Scaler/InterviewBit**
+- 🔭 I’m currently working with **Uolo.com**
 
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://arnavsharma2711.github.io/Portfolio/)

@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arnavsharma2711@gamil.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1jPnRCT2KfL78IpIkLvj324BIgSAsj4f1/view?usp=drive_link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1uGznmXwEK04-9hg5izDdEOK-KU7KVHhp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [www.arnavsharma.dev](www.arnavsharma.dev)
 
-- 📫 How to reach me **arnavsharma271@gmail.com**
+- 📫 How to reach me **arnavsharma2711@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1SIASAPzmxb3ynPLPAAvEgc24lQn1Pb60)
+- 📄 Know about my experiences [resume](https://arnavsharma.dev/aranv_sharma_fullstack_1_year_exp_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

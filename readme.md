@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arnavsharma2711@gmail.com**
 
-- 📄 Know about my experiences [resume](https://arnavsharma.dev/aranv_sharma_fullstack_1_year_exp_resume.pdf)
+- 📄 Know about my experiences [resume](https://arnavsharma.dev/Arnav%20Sharma%20Full%20Stack%201%20Year%20Exp.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

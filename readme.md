@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pianifica](https://github.com/arnavsharma2711/pianifica)
 
-- 👨‍💻 All of my projects are available at [www.arnavsharma.dev](www.arnavsharma.dev)
+- 👨‍💻 All of my projects are available at [www.arnavsharma.dev](https://www.arnavsharma.dev)
 
 - 📫 How to reach me **arnavsharma2711@gmail.com**
 
